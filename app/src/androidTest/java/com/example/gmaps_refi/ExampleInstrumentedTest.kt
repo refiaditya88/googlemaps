@@ -1,4 +1,4 @@
-package com.example.maps
+package com.example.gmaps_refi
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

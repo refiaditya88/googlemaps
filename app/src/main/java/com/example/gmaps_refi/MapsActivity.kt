@@ -1,8 +1,7 @@
-package com.example.maps
+package com.example.gmaps_refi
 
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
-import com.google.android.gms.maps.model.PolygonOptions
 import android.Manifest
 import android.content.pm.PackageManager
 import android.content.res.Resources
